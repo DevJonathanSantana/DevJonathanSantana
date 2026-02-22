@@ -2,7 +2,7 @@
 ### Ops... quis dizer: Olá! Eu sou o Jonathan Santana 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DevJonathanSantana/DevJonathanSantana/main/github-metrics.svg" alt="Minhas Conquistas" />
+  <img src="https://raw.githubusercontent.com/DevJonathanSantana/DevJonathanSantana/main/github-metrics.svg?v=1" alt="Minhas Conquistas" />
 </div>
 
 
