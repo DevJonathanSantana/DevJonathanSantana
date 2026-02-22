@@ -88,11 +88,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 </div>
 
 ## 🎮 Curiosidades e Hobbies
-🔧 Hardware: Além do código, gosto de colocar a mão na massa. Tenho como hobby a montagem e manutenção de computadores e smartphones.
+🔧 Hardware: Além do código, tenho como hobby a montagem e manutenção de computadores e smartphones.
 
-🕹️ Games: Sou fascinado por videogames! Quando não estou programando, estou me aventurando em algum jogo novo ou no laboratório de combos do Street Fighter 6.
+🕹️ Games: Sou fascinado por videogames! Quando não estou programando, estou me aventurando em algum jogo novo ou na ranked do Street Fighter 6.
 
-🐉 Animes: Um bom anime com um protagonista absurdamente overpower é regra na minha rotina para recarregar as energias.
+🐉 Animes: Um bom anime com um protagonista absurdamente overpower é sempre bom para recarregar as energias.
 
 ##
 <div align="center">
