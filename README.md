@@ -71,7 +71,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 ##
 <div align="center">
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1336105587745755206/1474977567424516126/esfera.png?ex=699bcf67&is=699a7de7&hm=b892349069ca02acb984bc68747f90fddd1cab1e5ed42baeca02992c3eb67020" width="80px" alt="esfera" />
+  <img src="https://i.imgur.com/v9D8l6x.png" width="80px" alt="esfera" />
 </p>
 
 <!-- Statistics -->
